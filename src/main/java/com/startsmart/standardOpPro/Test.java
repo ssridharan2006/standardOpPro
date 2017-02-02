@@ -6,4 +6,8 @@ public class Test
   {
     System.out.println("SOP = Standard Operating Procedure 3");
   }
+  public static void test()
+  {
+    System.out.println("SOP = Test 3");
+  }
 }
