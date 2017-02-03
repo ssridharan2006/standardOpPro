@@ -17,6 +17,5 @@ public class Test
 		System.out.println("SOP = Test 599");
 		System.out.println("SOP = Test 2");
 		System.out.println("SOP = Test 699");
-		System.out.println("SOP = Test 699");
 	}
 }
