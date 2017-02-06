@@ -9,7 +9,6 @@ public class Test
 		System.out.println("SOP = Standard Operating Procedure 3");
 		System.out.println("SOP = Standard Operating Procedure 444");
 		System.out.println("SOP = Standard Operating Procedure 5");
-		System.out.println("Commiting changes to revert");
 	}
 
 	public static void test()
