@@ -11,6 +11,11 @@ public class Test
 		System.out.println("SOP = Standard Operating Procedure 5");
 		System.out.println("Pushing to workbranch1");
 		System.out.println("Pushing to workbranch5 and merging with master");
+		System.out.println("commit 1 for merge test");
+		System.out.println("commit 2 for merge test");
+		System.out.println("commit 3 for merge test");
+		System.out.println("Commit3 after pull request");
+
 	}
 
 	public static void test()
