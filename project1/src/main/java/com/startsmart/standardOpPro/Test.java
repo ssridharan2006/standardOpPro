@@ -13,6 +13,7 @@ public class Test
 		System.out.println("Pushing to workbranch5 and merging with master");
 		System.out.println("commit 1 for merge test");
 		System.out.println("commit 2 for merge test");
+		System.out.println("commit 3 for merge test");
 	}
 
 	public static void test()
