@@ -14,6 +14,8 @@ public class Test
 		System.out.println("commit 1 for merge test");
 		System.out.println("commit 2 for merge test");
 		System.out.println("commit 3 for merge test");
+		System.out.println("Commit3 after pull request");
+
 	}
 
 	public static void test()
