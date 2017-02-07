@@ -10,6 +10,7 @@ public class Test
 		System.out.println("SOP = Standard Operating Procedure 444");
 		System.out.println("SOP = Standard Operating Procedure 5");
 		System.out.println("Pushing to workbranch1");
+		System.out.println("Pushing to workbranch5 and merging with master");
 	}
 
 	public static void test()
