@@ -20,6 +20,7 @@ public class Test
 		System.out.println("Remote branch change 3");
 		System.out.println("Remote branch change 11");
 		System.out.println("Remote branch change 12");
+		System.out.println("Remote branch change 13");
 
 	}
 
