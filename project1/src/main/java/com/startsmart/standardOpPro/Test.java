@@ -15,8 +15,13 @@ public class Test
 		System.out.println("commit 2 for merge test");
 		System.out.println("commit 3 for merge test");
 		System.out.println("Commit3 after pull request");
-		System.out.println("I am sridhar");
-
+  	System.out.println("Remote branch change 1");
+		System.out.println("Remote branch change 2");
+		System.out.println("Remote branch change 3");
+		System.out.println("Remote branch change 11");
+		System.out.println("Remote branch change 12");
+		System.out.println("Remote branch change 13");
+    System.out.println("I am sridhar")
 	}
 
 	public static void test()
