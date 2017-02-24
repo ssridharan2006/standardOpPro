@@ -40,6 +40,7 @@ public class Test
 	
 	public static void testRTB2()
 	{
-		System.out.println("RTB local branch commit 1");		
+		System.out.println("RTB local branch commit 1");	
+		System.out.println("RTB local branch commit 2");		
 	}
 }
