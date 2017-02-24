@@ -23,6 +23,7 @@ public class Test
 		System.out.println("Remote branch change 13");
 		System.out.println("I am sridhar");
 		System.out.println("I am dinesh");
+		System.out.println("commit 1");
 	}
 	public static void test()
 	{
