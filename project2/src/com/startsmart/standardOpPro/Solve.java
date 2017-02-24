@@ -11,5 +11,6 @@ public class Solve
 		System.out.println("Commit 1 after pull request");
 		System.out.println("Commit 2 after pull request");
 		System.out.println("commiting to test user name");
+		System.out.println("commiting to test origin merge");
 	}
 }
