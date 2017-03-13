@@ -5,7 +5,7 @@
 	<artifactId>project2</artifactId>
 	<packaging>jar</packaging>
 	<name>project2</name>
-	<version>1.0.33</version>
+	<version>1.0.44</version>
 	<build>
 		<plugins>
 
